@@ -1,2 +1,3 @@
 soy luis eduardo tengo 27 años esta es mi estoria de como empece en el codigo html
 empezamos practicando html
+despues seguimos con css
