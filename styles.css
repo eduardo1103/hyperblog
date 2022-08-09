@@ -2,14 +2,10 @@ body{
     color: brown;
     font-family: Helvetica, sans-serif;
     text-align: center;
-<<<<<<< HEAD
-    
-=======
 }
 .cabecera {
     width: 100%;
     font-family: helvetica;
     color: azure;
     background-color: black;
->>>>>>> 15a6a43 (finalizada la cabecera en negro)
 }
