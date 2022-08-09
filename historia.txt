@@ -3,3 +3,4 @@ empezamos practicando html
 despues seguimos con css
 ahora estamos empezando con git y se hace algo raro 
 otros cambio mayores 
+prueba para hacer pull
